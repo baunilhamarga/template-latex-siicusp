@@ -12,7 +12,7 @@ Arquivos Raiz:
 - `Main[PT-BR].tex`: Versão do resumo em português.
 - `Main[EN-US].tex`: Versão do resumo em inglês.
 
-Desde que eu entrei na USP, o template muda minimamente de ano para ano. A única mudança anual garantida é a do logo,lembre-se de mudar-lá para o seu ano. Logos de 2025:  
+Desde que eu entrei na USP, o template muda minimamente de ano para ano. A única mudança anual garantida é a da logo: lembre-se de mudar-lá para a do seu ano. Logos de 2025:  
 <img src="Figures/logo_33_pt.png" width="30%"> <img src="Figures/logo_33_en.png" width="30%">  
 O template usa versões vetorizadas da logo criadas traçando-se o bitmap das disponibilizadas em `.png` 800x800 px, também presentes [aqui](Figures).
 
